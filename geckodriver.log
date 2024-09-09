@@ -1,0 +1,45 @@
+1725867584062	geckodriver	INFO	Listening on 127.0.0.1:63862
+1725873213634	geckodriver	INFO	Listening on 127.0.0.1:59594
+1725873214148	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/7d/vhpfn01n2lxg6hb7yk8696mc0000gn/T/rust_mozprofiledFRNPY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1725873214342	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1725873214553	Marionette	INFO	Listening on port 59675
+WebDriver BiDi listening on ws://127.0.0.1:59595
+Read port: 59675
+1725873214612	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1725873335485	geckodriver	INFO	Listening on 127.0.0.1:60248
+1725873336003	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/7d/vhpfn01n2lxg6hb7yk8696mc0000gn/T/rust_mozprofiledR6yS0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1725873336182	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1725873336349	Marionette	INFO	Listening on port 60261
+WebDriver BiDi listening on ws://127.0.0.1:60249
+Read port: 60261
+1725873336458	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3590: TypeError: this._windows[aWindow.__SSi] is undefined
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-TZ66ZE24K9, line 586: Script terminated by timeout at:
+ba.rh@https://www.googletagmanager.com/gtag/js?id=G-TZ66ZE24K9:586:491
+get@https://www.googletagmanager.com/gtag/js?id=G-TZ66ZE24K9:585:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-TZ66ZE24K9:585:87
+ba.Mk/c/<@https://www.googletagmanager.com/gtag/js?id=G-TZ66ZE24K9:585:412
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 3590: TypeError: this._windows[aWindow.__SSi] is undefined
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: , line 0: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+1725873372983	geckodriver	INFO	Listening on 127.0.0.1:60480
+1725873373505	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/7d/vhpfn01n2lxg6hb7yk8696mc0000gn/T/rust_mozprofileN4rhnM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1725873373685	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1725873373829	Marionette	INFO	Listening on port 60492
+WebDriver BiDi listening on ws://127.0.0.1:60481
+Read port: 60492
+1725873373946	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
